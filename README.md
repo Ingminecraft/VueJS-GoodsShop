@@ -1,5 +1,7 @@
 # kat-chattamas
 
+https://youtu.be/HODU_avEPvU
+
 ### เพิ่มเติม
 
 ![image](https://github.com/Ingminecraft/VueJS-GoodsShop/assets/48095449/c0e79ddd-8107-407f-b9de-162e83c4386f)
